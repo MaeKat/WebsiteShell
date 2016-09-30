@@ -1,0 +1,180 @@
+body {
+	margin: 20px;
+	padding: 20px;
+	background: gray;
+	font-family: Arial, sans-serif;
+	color: black;
+}
+
+.container {
+	width: 800px;
+	margin: 2px auto;
+	background-color: white;
+}
+
+.header {
+	width: 100%;
+	height: 150px;
+	background-image:url('../images/pug_banner.png');
+	
+}
+
+h1 {
+	float: right;
+	padding-top: 25px;
+	padding-right: 25px;
+	color: black;
+	font-size: 45px;
+}
+
+h2 {
+	padding: 10px 0px 0px 0px;
+	margin: 0px;
+	padding-bottom: 15px;
+	color:black;
+}
+
+.nav {
+	border: 1px solid black;
+	width: 100%;
+	height: 35px;
+	background-image:url('../images/navbar_background.png');
+	background-repeat:repeat;
+}
+
+.navlink {
+	width: 199px; /* Allowing for the 1px of border */
+	height: 25px;
+	text-align: center;
+	border-right: 1px solid black;
+	padding: 7px 0 3px;
+	float: left;
+	font-family:"Trebuchet MS", Verdana, sans-serif;
+}
+
+a:link {
+	color:white;
+}
+
+a:visited {
+	color:pink;
+}
+
+a:hover {
+	text-decoration: none;
+	color:pink;
+}
+
+
+.content {
+	padding-bottom: 50px;
+	vertical-align: top;
+	padding-top: 10px;
+	padding-left: 10px;
+	background-color: white;
+	font-size: 14px;
+}
+
+.footer {
+	height: 30px;
+	text-align: center;
+	padding-top: 10px;
+	border-top: thin dotted gray;
+	margin-top: 20px;
+	color: gray;
+	font-size: 12px;
+}
+
+.clearfloat {
+	clear: both;
+}
+
+.main-image {
+	float: right;
+	padding-right: 30px;
+}
+
+.sample-image {
+	text-align: center;
+}
+
+.graphic-menu {
+	float: right;
+	padding-right: 50px;
+}
+
+table {
+	border-collapse: collapse;
+	width: 500px;
+}
+
+td, th {  /* Notice how multiple elements can be defined at the same time */
+	border-style: solid;
+	border-width: thin;
+	border-color: black;
+	text-align:center;
+}
+
+td {
+	color:black;
+}
+
+.video {
+	margin-top:30px;
+	margin-left:35px;
+	margin-right:auto;
+}
+
+.tinyPug{
+	position:relative;
+	left:600px;
+	
+	}
+
+
+.myform {
+	width:500px;
+	margin:auto;
+	background-color:#ff99ff;
+	padding:20px;
+	border:5px double black;
+	font-family: "Arial Black", sans-serif;
+	font-size:16px;
+	border-radius:25px;
+}
+
+.label {
+	text-align:right;
+	width:110px;
+	float:left;
+	padding:5px;
+	margin-right:20px;
+}
+
+.data {
+	text-align:left;
+	padding:10px;
+}
+
+.clearfloat {
+	clear:both;
+}
+
+.tall {
+	height:60px;
+	padding-top:34px;
+}
+
+.button {
+	text-align:center;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.male {
+	float:left;
+	margin-right:15px;
+}
+.second {
+	text-align:center;
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+		<title>Too Many Pugs by Vanessa Hoffmann</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<meta http-equiv="Content-Language" content="en-us" />
+
+		<style type="text/css" media="all">
+		</style>
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="header">
+				<h1>My Personal Pug-site</h1>
+			</div>	<!-- header -->
+			<div class="nav">
+				<div class="navlink">
+					<a href="index.html">Home</a>
+				</div>
+				<div class="navlink">
+					<a href="page2.html">Pug 2</a>
+				</div>
+				<div class="navlink">
+					<a href="page3.html">Pug 3</a>
+				</div>
+				<div class="navlink">
+					<a href="page4.html">Pug 4</a>
+				</div>
+			</div> <!-- nav -->
+			<div class="content">		
+				<h2>Is this an entire website about pugs?!</h2>
+				<p>
+				<em>Yes!</em> This entire website is deticated to having only pugs and nothing but pugs!
+				</p>
+				<p>
+					Now while this may seem crazy, it's a fun pug-safe zone for everyone to enjoy!
+				</p>
+				<div class="main-image">
+					<img src="images/pug_home.jpg" width="300" height="204" alt="Welcome Pug" />
+				</div> <!-- main-image -->
+				<div class="second">
+					<h2>Why are Pups so GREAT?</h2>
+					<ul>
+						<li>They have squishy noses</li>
+						<li>They love everything</li>
+						<li>You can always hear them</li>
+						<li>They will never leave you</li>
+						<li>Pugs don't betray you</li>
+						<li>Pugs also don't eat all of your icecream</li>
+					</ul>
+				</div>		
+			</div> <!-- content -->
+			<div class="clearfloat"></div>
+			<div class="footer">
+				&copy; 2011 - My Name.
+			</div> <!-- footer -->
+		</div> <!-- container -->
+
+</body>
+</html>

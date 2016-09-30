@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+		<title>Personal Pugsite - Page #3</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<meta http-equiv="Content-Language" content="en-us" />
+
+		<style type="text/css" media="all">
+		</style>
+	</head>
+
+	<body>
+		<div class="container">
+			<div class="header">
+				<h1>My Personal Pug-site</h1>
+			</div>	<!-- header -->
+			<div class="nav">
+				<div class="navlink">
+					<a href="index.html">Home</a>
+				</div>
+				<div class="navlink">
+					<a href="page2.html">Pug 2</a>
+				</div>
+				<div class="navlink">
+					<a href="page3.html">Pug 3</a>
+				</div>
+				<div class="navlink">
+					<a href="page4.html">Pug 4</a>
+				</div>
+			</div> <!-- nav -->
+			<div class="content">		
+				<h2>Pug Party!</h2>
+				<p>Most owners are unaware of how much of a party animal pugs are. They have been known to throw amazing parties and thus are often the best pup on the street to see for late night parties. Even puppies join in the party!</p>	
+				<div class="graphic-menu">			
+					<img src="images/pug_party.jpg" width="200" height="500" alt="Pug Sample" />
+				</div>
+				<table>
+					<tr>
+						<th>Pug Party Fund</th>
+						<th>Non Pug Party Fund</th>
+					</tr>
+					<tr>
+						<td>$600 drinks</td>
+						<td>Nothing</td>
+					</tr>
+					<tr>
+						<td>$20 games</td>
+						<td>Disappointment</td>
+					</tr>
+					<tr>
+						<td>$350 preformers</td>
+						<td>No connections</td>
+					</tr>
+					<tr>
+						<td>Total:Who cares!</td>
+						<td>Total: Get a Pug.</td>
+					</tr>
+				</table>
+				<div class="video">
+					<iframe width="432" height="315" src="https://www.youtube.com/embed/Yt6Ig18C8dA" frameborder="0" allowfullscreen></iframe>
+				</div> <!-- video -->
+			</div> <!-- content -->
+			<div class="clearfloat"></div>
+			<div class="footer">
+				&copy; 2015 - Vanessa Hoffmann.
+			</div> <!-- footer -->
+		</div> <!-- container -->
+
+</body>
+</html>
